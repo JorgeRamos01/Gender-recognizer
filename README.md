@@ -1,4 +1,6 @@
 # Gender-recognizer
+(The PDF file contains a summary of the results obtained).
+
 Algorithms to detect patrons in faces to recognize gender
 
 To find faces inside pictures is used a Haar Cascade, after this the faces are cutted and resized.
